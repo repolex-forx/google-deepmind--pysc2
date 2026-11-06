@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "pysc2",
+  "versions": [
+    {
+      "commit": "0df53d38c153972f1e368572ba65b1442a0fd41f",
+      "tag": "",
+      "parsed_at": "2026-11-06T17:50:16.397196+00:00"
+    }
+  ]
+}
